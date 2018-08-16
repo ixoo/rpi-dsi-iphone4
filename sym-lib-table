@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name custom-components)(type Legacy)(uri /Volumes/Development/rpi-dsi-iphone4/custom-components.lib)(options "")(descr ""))
+)
